@@ -1,0 +1,20 @@
+{
+  "name": "repaso-3ev",
+  "version": "1.0.0",
+  "description": "hadskjhfjkasdhjk",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "autotest": "jest --watchAll"
+  },
+  "keywords": [
+    "bla",
+    "bla",
+    "bla"
+  ],
+  "author": "yo",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
